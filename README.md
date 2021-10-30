@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @synstacks
+- 👋 Hi, we're @synstacks
 - 👀 We're software solution team
 - 🌱 We're working on React Native, Flutter, Laravel, Firebase
 - 💞️ I’m looking to collaborate on
